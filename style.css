@@ -1,0 +1,63 @@
+.header{
+    overflow: hidden;
+    background-color: white;
+    padding: 20px;
+}
+ 
+.header a{
+    float:left;
+    color:black;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 25px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-right: 10px;
+ 
+}
+.header img{
+    float: left;
+    padding: 5px;
+    margin-top: 13px;
+    margin-right: 10px;
+}
+.header-right{
+    float: right;
+
+}
+.header button{
+    padding:5px;
+    margin-left: 10px;
+    border-radius: 8px;
+    background-color: white;
+    margin-top: 10px;
+}
+.body{
+    position: relative;
+   padding: 30px;
+}
+ 
+ 
+.image-right img{
+    float:right;
+    width: 30%;
+    height: 90%;
+ 
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-right: 20px;
+}
+.body h1 {
+font-size: 80px;
+}
+.body button{
+    background-color: black;
+    border-radius: 8px;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+
